@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hola, soy Saaler-Dev 👋
 
-<!--
-**Saaler-Dev/Saaler-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Estudiante de Ciencias de la Computación | Backend & AI Enthusiast | Artista 🎨
 
-Here are some ideas to get you started:
+- 🎓 Actualmente cursando el **cuarto ciclo** en la UPC, Lima-Perú.
+- 🛡️ Interesado en la **Ciberseguridad** y el desarrollo de sistemas seguros.
+- 🐍 Dominando **Python, C++ y C#** para proyectos de alto impacto.
+- 🖌️ Creador de **nigreddo.bz**: Mi lugar de descanso, el arte.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tecnologías y Herramientas
+- **Lenguajes:** Python, C++, C#, SQL.
+- **Entorno:** VS Code & Git.
+- **Intereses:** Inteligencia Artificial, Backend Moderno y Seguridad Informática.
+
+---
+
+### 📈 Mi actividad en GitHub
+![Estadísticas de Saaler-Dev](https://github-readme-stats.vercel.app/api?username=Saaler-Dev&show_icons=true&theme=tokyonight)
