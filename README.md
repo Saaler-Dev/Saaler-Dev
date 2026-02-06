@@ -1,4 +1,4 @@
-# Hola, soy Saaler-Dev 👋
+# Hola, soy Saaler-Dev
 
 ### 💻 Estudiante de Ciencias de la Computación | Backend & AI Enthusiast | Artista 🎨
 
