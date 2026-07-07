@@ -14,7 +14,3 @@
 - **Entorno:** VS Code & Git.
 - **Intereses:** Inteligencia Artificial, Backend Moderno y Seguridad Informática.
 
----
-
-### 📈 Mi actividad en GitHub
-![Estadísticas de Saaler-Dev](https://github-readme-stats.vercel.app/api?username=Saaler-Dev&show_icons=true&theme=tokyonight)
